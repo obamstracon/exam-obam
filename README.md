@@ -1,5 +1,11 @@
-[O
+<img width="1440" alt="Screenshot 2023-10-21 at 16 19 10" src="https://github.com/obamstracon/exam-obam/assets/134118317/50c18b4b-d42e-4d81-8865-dac846b48e60"><img width="1440" alt="Screenshot 2023-10-21 at 15 34 05" src="https://github.com/obamstracon/exam-obam/assets/134118317/37a3b59e-2f87-4f9b-a1ae-a565d514eb69">
 
+
+<img width="1440" alt="Screenshot 2023-10-21 at 18 05 46" src="https://github.com/obamstracon/exam-obam/assets/134118317/47425313-dc45-4d9b-9035-fdaf2a998e33">
+
+<img width="1440" alt="Screenshot 2023-10-21 at 17 05 28" src="https://github.com/obamstracon/exam-obam/assets/134118317/011cb571-9092-41db-bfd2-81f9fb2502b0
+	
+DOCUMENTATION
 
 EXPLAINING WHAT THESE REPOSITORY IS ALL ABOUT
 
@@ -90,7 +96,7 @@ Inside the folder I created inventory where in this case its only slave machine 
 
 Create ansible-site.yaml, this Is where the full configuration is played
 
-And then create ansible.cfg, which host the default key, inventory 
+And then create ansible.cfg, which host the default key, inventory https://github.com/obamstracon/exam-obam/projects
 
 Use vagrant ssh mater to gain access into master 
 Run laravel-slave.sh.
